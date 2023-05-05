@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/sushant51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sushant51/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/sushant51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/d4kash/d4kash/8f4607d20767b2a1dbb460c3cfa079bd4049b06c/Instagram-Logo.wine.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/daksh_jhaa?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/d4kash/d4kash/8f4607d20767b2a1dbb460c3cfa079bd4049b06c/Instagram-Logo.wine.svg" alt="https://instagram.com/daksh_jhaa?igshid=ZDdkNTZiNTM=" height="35" width="40" /></a>
 </p>
 
 

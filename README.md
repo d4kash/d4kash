@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on [AISECT University App(Flutter),](https://gitfront.io/r/user-5836234/dMv6bguXZsoE/aisect-user/)
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, TypeScript, Go, French language**
-- 
+- 🌱 I’m currently learning **ReactJs, NodeJs, TypeScript, Go**
+   
 - 🌱 Foreign Language learning **French language**
 
 - 🔭 I’m currently working on **Landlord-Tenant project**

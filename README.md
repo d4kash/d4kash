@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4kash&label=Profile%20views&color=0e75b6&style=flat" alt="d4kash" /> </p>
 
-- 🔭 I’m currently working on [AISECT University App(Flutter),](https://gitfront.io/r/user-5836234/dMv6bguXZsoE/aisect-user/)
+- 🔭 I’m Full-Fledged Project on [AISECT University App(Flutter),](https://gitfront.io/r/user-5836234/dMv6bguXZsoE/aisect-user/)
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, TypeScript, Go**
    
-- 🌱 Foreign Language learning **French language**
+- 🌱 Foreign Language learning **French language (Beginner)**
 
 - 🔭 I’m currently working on **Landlord-Tenant project**
 
@@ -39,3 +39,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d4kash&" alt="d4kash" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d4kash&show_icons=true&theme=dark&locale=en&layout=compact" alt="d4kash" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d4kash&show_icons=true&locale=en" alt="d4kash" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d4kash&" alt="d4kash" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d4kash&label=Profile%20views&color=0e75b6&style=flat" alt="d4kash" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4kash" alt="d4kash" /></a> </p>

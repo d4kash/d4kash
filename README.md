@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4kash&label=Profile%20views&color=0e75b6&style=flat" alt="d4kash" /> </p>
 
-- 🔭 I’m Full-Fledged Project on [AISECT University App(Flutter),](https://gitfront.io/r/user-5836234/dMv6bguXZsoE/aisect-user/)
+- 🔭 I’m Full-Fledged Project on [AISECT University App(Flutter),](https://github.com/d4kash/aisect_user)
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, TypeScript, Go**
    
@@ -15,12 +15,16 @@
 - 🔭 I’m currently working on **Landlord-Tenant project**
 
 - 🔭 Projects Finished [P2P money lending app](https://subhras.co/login)
+  
+- 🔭 Projects Finished [Sarthi Booking app](https://play.google.com/store/apps/details?id=com.drs.manzil)
 
-- 💬 Ask me about **Flutter, Dart, react, Firebase, etc**
+- 💬 Ask me about **Flutter, Dart, react, Firebase, Git, JSON etc**
 
 - 📫 How to reach me **imsushantnm@gmail.com**
 
-- 📄 Know about my experiences [Downlaod Resume](https://drive.google.com/file/d/1B_-kTE6GjAC4VJvpo_Z1AUgNYiukthM2/view?usp=share_link)
+- 📄 Know about my experiences [Downlaod Resume](https://drive.google.com/file/d/1XvPLaFnAq8vEsVmOuHlYtViTzxvUGUEb/view?usp=drive_link)
+
+- 📄 Technical Documentation Demo [View Doc. Sample](https://dakshjha.slite.page/p/H_FCUK650rIssE/Technical-documentation)
 
 - ⚡ Foreign Language **French (Beginner)**
 

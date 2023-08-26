@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sushant (Daksh)</h1>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-<h3 align="center">A passionate frontend, Mobile app developer from India</h3>
+<h3 align="center">A passionate frontend, Flutter (Android, iOS, web) app developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4kash&label=Profile%20views&color=0e75b6&style=flat" alt="d4kash" /> </p>
 

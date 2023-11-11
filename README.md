@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4kash&label=Profile%20views&color=0e75b6&style=flat" alt="d4kash" /> </p>
 
-- 🔭 I’m woeking on Full-Fledged Project [AISECT University App(Flutter),](https://github.com/d4kash/aisect_user)
+- 🔭 I’m woeking on Full-Fledged Project [AISECT University App(Flutter),](https://github.com/d4kash/aisect_user) [Playstore Link](https://play.google.com/store/apps/details?id=com.aisect.aisect)
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, TypeScript, Go**
    

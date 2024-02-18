@@ -17,8 +17,9 @@
 - 🔭 Projects Finished [P2P money lending app](https://subhras.co/login)
   
 - 🔭 Projects Finished [Sarthi Booking app](https://play.google.com/store/apps/details?id=com.drs.manzil)
+- 🔭 Projects Finished [Leave Management app](https://play.google.com/store/apps/details?id=com.leave.management)
 
-- 💬 Ask me about **Flutter, Dart, react, Firebase, Git, JSON etc**
+- 💬 Ask me about **Flutter, Dart, react, Firebase, Git, JSON, graphQL etc**
 
 - 📫 How to reach me **imsushantnm@gmail.com**
 

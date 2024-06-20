@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **imsushantnm@gmail.com**
 
-- 📄 Know about my experiences [Downlaod Resume](https://drive.google.com/file/d/14-lOKFnVmYUUufkH_vCn9-jnqeFBMKHi/view?usp=sharing)
+- 📄 Know about my experiences [Downlaod Resume](https://drive.google.com/file/d/1jTHzvX8U2k-nhNK0IN-UZAhDF4W7kHT1/view?usp=sharing)
 
 - 📄 Technical Documentation Demo [View Doc. Sample](https://dakshjha.slite.page/p/H_FCUK650rIssE/Technical-documentation)
 

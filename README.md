@@ -30,7 +30,7 @@
 ✔️ AWS Lambda + DynamoDB  
 ✔️ Real customers & real revenue  
 
-🔗 *Will add Play Store / Website link when public*
+🔗 *Website link: https://bookgangaarti.com/*
 
 ---
 
